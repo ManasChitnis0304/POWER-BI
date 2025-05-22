@@ -1,4 +1,5 @@
 📊 Sales and Profit Analysis Dashboard
+
 📝 Overview
 This dashboard provides an interactive and comprehensive analysis of sales and profit metrics to help understand business performance. It allows stakeholders to monitor key indicators, track trends, and derive actionable insights to make informed decisions.
 
